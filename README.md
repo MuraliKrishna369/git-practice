@@ -21,6 +21,31 @@ open [google](https://www.google.com/)
 ### Images
 ![image alt text](https://myoctocat.com/assets/images/base-octocat.svg)
 
+### Lists
+- Murali
++ Krishna
+* Pogiri
+
+Games
+1. Chess
+2. Cricket
+3. Shettle
+
+### Nested Lists
+1. First Rule Work Hard
+   - Study Hard
+   - Play Hard
+   - Stay Hard
+2. Second Rule Follow rule no.1
+
+### Todo
+- [x] Wake Up
+- [x] Eat
+- [x] Work
+- [] Sleep
+  
+
+
 
 
 
