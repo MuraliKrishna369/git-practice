@@ -43,7 +43,25 @@ Games
 - [x] Eat
 - [x] Work
 - [ ] Sleep
-  
+
+### Alerts
+> [!NOTE]
+> Note down this point
+
+> [!IMPORTANT]
+> Because that is important
+
+> [!TIP]
+> Don't take advices others, figure out on your own
+
+> [!WARNINIG]
+> Ignore warnings to live boldly
+
+> [!CAUTION]
+> There is a price to pay
+
+
+
 
 
 
