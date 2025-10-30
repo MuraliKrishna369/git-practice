@@ -54,7 +54,7 @@ Games
 > [!TIP]
 > Don't take advices others, figure out on your own
 
-> [!WARNINIG]
+> [!WARNING]
 > Ignore warnings to live boldly
 
 > [!CAUTION]
