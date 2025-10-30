@@ -42,7 +42,7 @@ Games
 - [x] Wake Up
 - [x] Eat
 - [x] Work
-- [] Sleep
+- [ ] Sleep
   
 
 
